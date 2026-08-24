@@ -1,7 +1,6 @@
 # aws-s3-static-website
 Multi-page static website hosted on Amazon S3 with custom bucket policies and error handling
 
-```markdown
 # ☁️ AWS Project: Hosting a Multi-Page Static Website on Amazon S3
 
 This repository contains my hands-on project for deploying a multi-page static website using Amazon S3. This project demonstrates cloud infrastructure fundamentals, serverless hosting, object storage, and AWS access governance.
@@ -36,7 +35,6 @@ Instead of relying on traditional web servers like Apache or Nginx on EC2 instan
 
 ```
 
----
 
 ## 🛠️ Step-by-Step Deployment Guide
 
@@ -123,7 +121,7 @@ aws-s3-static-website/
 3. **Test CSS:** Verify the stylesheet (`style.css`) loads correctly across all pages.
 4. **Test Custom Error Page:** Manually add `/not-found.html` to the end of your URL. Verify that it routes to the custom `error.html` page instead of the default AWS error.
 
----
+
 
 ## 🧹 Security & Clean-Up
 
@@ -134,6 +132,5 @@ To avoid unnecessary charges and maintain security after testing the infrastruct
 3. Open **Properties** and disable **Static website hosting**.
 4. Delete the files from the bucket, then delete the bucket itself.
 
----
 
 **Focus Area:** AWS Cloud Infrastructure, Object Storage, IAM Policies, and Serverless DevOps.
