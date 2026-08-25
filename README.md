@@ -5,7 +5,7 @@ Multi-page static website hosted on Amazon S3 with custom bucket policies and er
 
 This repository contains my hands-on project for deploying a multi-page static website using Amazon S3. This project demonstrates cloud infrastructure fundamentals, serverless hosting, object storage, and AWS access governance.
 
----
+
 
 ## 🏗️ Architecture
 
