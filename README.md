@@ -1,9 +1,6 @@
-# aws-s3-static-website
-
 # Hosting a Multi-Page Static Website on Amazon S3
 
 This repository contains my hands-on project for deploying a multi-page static website using Amazon S3. This project demonstrates cloud infrastructure fundamentals, serverless hosting, object storage, and AWS access governance.
-
 
 
 ##  Architecture
